@@ -1,7 +1,7 @@
 import os
 import json
 from dotenv import load_dotenv, find_dotenv
-                                                                                                                                    
+                                                                                                                         
 def load_env():
     _ = load_dotenv(find_dotenv())
 
@@ -15,5 +15,20 @@ def load_world(filename):
 
 def get_ollama_api_key():
      load_env()
-     ollama_api_key = os.getenv("Enter API Key Here")
+     ollama_api_key = os.getenv("...")
      return ollama_api_key
+
+def get_hf_api_key():
+     load_env()
+     hf_api_key = os.getenv("...")
+     return hf_api_key
+
+def get_google_api_key():
+     load_env()
+     google_api_key = os.getenv("...")
+     return google_api_key
+
+def get_guardrails_api_key():
+    load_env()
+    guardrails_api_key = os.getenv("...")
+    return guardrails_api_key

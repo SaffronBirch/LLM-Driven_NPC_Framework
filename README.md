@@ -1,46 +1,214 @@
-# Smart NPCs: An Evaluation Framework for LLM-Based NPC Development and Testing
-Undergraduate thesis project in collaboration with Cristiano Politowski Mariana Shimabukuro.
+# LLM-Driven NPC Behavioural Consistency Framework
 
-## About The Project
-As AI becomes more prevelant in the video game industry, there is an increasing amount of research done on Generative AI-powered Non-Player Characters (NPCs). Generative AI-powered NPCs, also known as "Smart NPCs" are connected to a large language to generate textual responses to a player's input, guided by prompts from the developer. This new type of development opens a door for more interactive and dynamic NPC bahaviour, in which smart NPCs can adapt to their environment based on the choices made by a player. This could give each player a unique experience, as no two interaction with a given player would be exactly the same.
+**Honours Thesis — Ontario Tech University**  
+Supervised by Cristiano Politowski & Mariana Shimabukuro
 
-As promising as this area of research is, it brings about a new set of challenges that must be addressed. Generative AI is known to hallucinate, falsify information, and lack emotional depth, and so while it's possible to create more dynamic environments, it is challenging to create individual smart NPCs that have consistent personalities. 
+---
 
-AI guardrails can be implemented that act as a digital filter, ensuring user inputs and LLM outputs remain within boundaries established by the developer. These guardrails help maintain appropriate content, improve player safety, and enforce consistent character behaviour.
+## About
 
-## Current Features
-- AI-based chatbot in a Sandbox environment that connects to an open-source large language model, forming the basis for a Smart NPC.
-- System Prompts inform the model about its role in this project, specifically that it will be protraying a designated character from a video game, as chosen by the uer. A series of instructions is included that detail rules for formatting, length of responses, and general contraints.
-- Hierarchial Content Generation that builds a world based on a video game: specified b the user:
-  - World Generation: Asks the model to generate a description of the world that the the LLM's character exists in.
-  - Region Generation: Asks the model to generates a description of each major region/city/location that exists in the video game world. Each region/city/location is subsequently added to the world's JSON data.
-  - Character Generation: Asks the model to generate a description of the character that the mdoel will be protraying. A new character description is generated for each of the previously generated regions, outlining the charcter's reason for being in that region, and the role they occupy there.
-  - Chat interface built using Gradio.
-- Saves chat logs for later review.
+This repository contains the prototype and evaluation framework for an Honours thesis investigating **behavioural consistency in LLM-driven NPCs**. The testbed character is Geralt of Rivia from _The Witcher 3: Wild Hunt_, evaluated against a multi-dimensional framework across 37 single-turn adversarial probes.
 
-## Features To Be Implemented:
-- Use guardrails imported from the "Guardrails AI Hub" to govern the AI model, ensuring the AI model follows a specific set of guidelines put forth by the user.
-- User interface that allows users to easily select the guardrails they wish to enable from a given library. The selected guardrails will then be automatically implemented into the sandbox environment.
+The framework measures four dimensions of NPC behavioural consistency:
 
-## External Resources That Were Used:
-- Gradio
-- Ollama
-- Guardrails AI
+| Code   | Dimension             | What It Tests                                                |
+| ------ | --------------------- | ------------------------------------------------------------ |
+| **PA** | Personality Alignment | Does the NPC stay in character under pressure?               |
+| **KF** | Knowledge Filtration  | Does the NPC reject out-of-world or meta knowledge?          |
+| **BM** | Bias Mitigation       | Does the NPC resist player-introduced biased framings?       |
+| **NA** | Narrative Adherence   | Does the NPC respect lore and temporal knowledge boundaries? |
+| **GC** | Guideline Compliance  | Cumulative score derived from the four dimensions above.     |
 
-## How to Run (In Progress -- Please Check Back Soon)
-### Create a virtual Environment:
+---
 
-### Download the required dependecies:
+## Repository Structure
 
-### Ensure Ollama is running:
+```
+├── evaluation.py                        # Main evaluation runner (single-turn adversarial suite)
+├── WorldCreation.py                     # Hierarchical world/region/character generator
+├── build_data_js.py                     # Builds data file for the prototype dashboard
+├── RunChat-Witcher.py                   # Witcher-specific chat interface (Gradio)
+├── RunChat-General.py                   # General-purpose chat interface (Gradio)
+├── LLM.py                               # Ollama API wrapper
+├── rag.py                               # RAG module for script indexing and retrieval
+├── helper_template.py                   # Template for helper.py (copy and configure)
+├── requirements.txt                     # Python dependencies
+│
+├── validators/
+│   ├── narrative_adherence_validator.py
+│   ├── meta_knowledge_filtration_validator.py
+│   ├── bias_mitigation_validator.py
+│   └── personality_alignment_validator.py
+│
+├── interface/                           # Prototype evaluation dashboard
+├── scriptData/                          # Witcher 3 script text + RAG index
+├── saved_worlds/                        # Output from WorldCreation.py
+```
 
-### Run the Script 'WorldCreation.py' in the command line:
+---
 
-This is will generate a JSON file containing the world information.
+## Setup
 
-### Run the script 'RunChat.py' in the command line:
+### 1. Clone the repository
 
-You will be prompted to open the application in your browser. This will open the chat interface where you can begin chatting.
+```bash
+git clone https://github.com/SaffronBirch/LLM-Driven_NPC_Framework.git
+cd LLM-Driven_NPC_Framework
+```
 
+### 2. Create and activate a virtual environment
 
+```bash
+python -m venv venv
+source venv/bin/activate        # macOS/Linux
+venv\Scripts\activate           # Windows
+```
 
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure your environment
+
+Copy `helper_template.py` to `helper.py` and fill in your API keys:
+
+```bash
+cp helper_template.py helper.py
+```
+
+Then edit `helper.py` to set your keys. Create a `.env` file in the project root if needed:
+
+```
+GOOGLE_API_KEY=your_gemini_key_here
+```
+
+### 5. Ensure Ollama and Gemini (or other API) are running
+
+The NPC model (`deepseek-v3.2:cloud`) is served via Ollama. The validator model (`gemini-2.5-flash`) is served via Google AI Studio. Make sure they are running locally before executing any scripts:
+
+```bash
+ollama serve
+```
+
+---
+
+## Running the Prototype Dashboard
+
+The prototype is an interactive evaluation dashboard that visualises results from the adversarial test suite. Follow these steps in order:
+
+### Step 1 — Generate the world
+
+```bash
+python WorldCreation.py
+```
+
+This produces a JSON file (e.g. `saved_worlds/TheContinent_<timestamp>.json`) containing the world, regions, and per-region character descriptions used by the NPC and validators.
+
+### Step 2 — Run the evaluation
+
+```bash
+python evaluation.py \
+    --tests adversarial-single \
+    --region "White Orchard" \
+    --act prologue \
+    --na-guardrail --mkf-guardrail --bm-guardrail --pa-guardrail \
+    --no-judge \
+    --regenerate-on-fail
+```
+
+This produces an `eval_Geralt_<region>_<timestamp>.json` results file.
+
+### Step 3 — Build the dashboard data
+
+```bash
+python build_data_js.py
+```
+
+This reads the most recent evaluation JSON and writes a `data.js` file used by the dashboard interface.
+
+### Step 4 — Move the data file into the interface folder
+
+```bash
+mv data.js interface/
+```
+
+### Step 5 — Open the prototype dashboard
+
+```bash
+cd interface
+python -m http.server 8000
+```
+
+Then open your browser and navigate to `http://localhost:8000`.
+
+---
+
+## Running the Chat Interface
+
+Two chat interfaces are available, both powered by Gradio:
+
+**Witcher-specific** (Geralt of Rivia, region-aware knowledge boundaries):
+
+```bash
+python RunChat-Witcher.py
+```
+
+**General** (any character from any generated world):
+
+```bash
+python RunChat-General.py
+```
+
+Both will print a local URL to open in your browser. Type `Hello` (or `Hello Geralt`) to begin the conversation. Use the region dropdown to change Geralt's location — this updates his knowledge boundary automatically.
+
+---
+
+## Running the Evaluation Directly
+
+```bash
+python evaluation.py \
+    --tests adversarial-single \
+    --seed 123 \
+    --region "White Orchard" \
+    --act prologue \
+    --na-guardrail --mkf-guardrail --bm-guardrail --pa-guardrail \
+    --regenerate-on-fail
+```
+
+**Key flags:**
+
+| Flag                   | Description                                               |
+| ---------------------- | --------------------------------------------------------- |
+| `--tests`              | `all`, `adversarial`, or `adversarial-single`             |
+| `--region`             | Starting region for Geralt                                |
+| `--act`                | Narrative act (`prologue`, `act_1`, `act_2`, `act_3`)     |
+| `--na-guardrail`       | Enable Narrative Adherence guardrail                      |
+| `--mkf-guardrail`      | Enable Meta-Knowledge Filtration guardrail                |
+| `--bm-guardrail`       | Enable Bias Mitigation guardrail                          |
+| `--pa-guardrail`       | Enable Personality Alignment guardrail                    |
+| `--no-judge`           | Skip LLM-as-judge scoring (for validator scoring only)    |
+| `--regenerate-on-fail` | Re-prompt NPC with a correction hint on guardrail failure |
+| `--seed`               | Random seed for reproducibility                           |
+
+Results are saved as both a full JSON log and a flat CSV for review.
+
+---
+
+## Models Used
+
+| Role      | Provider | Model                 |
+| --------- | -------- | --------------------- |
+| NPC       | Ollama   | `deepseek-v3.2:cloud` |
+| Validator | Gemini   | `gemini-2.5-flash`    |
+
+---
+
+## External Dependencies
+
+- [Ollama](https://ollama.com) — local LLM serving
+- [Guardrails AI](https://www.guardrailsai.com) — validator framework
+- [Gradio](https://www.gradio.app) — chat interface
+- [sentence-transformers](https://www.sbert.net) — RAG embeddings (`all-MiniLM-L6-v2`)
+- [Google Generative AI](https://ai.google.dev) — Gemini validator
