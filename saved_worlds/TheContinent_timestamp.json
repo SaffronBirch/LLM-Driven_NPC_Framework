@@ -1,0 +1,102 @@
+{
+  "game_name": "The Witcher 3: Wild Hunt",
+  "world_name": "The Continent",
+  "world_description": "A gritty, war\u2011torn land where human kingdoms vie for power and monsters lurk in the shadows. Cities like Novigrad are bustling free ports, while places such as Velen and Skellige are wild, untamed wildernesses. Magic, ancient curses, and a wandering monster hunter named Geralt shape the fate of its peoples.",
+  "world_tensions": {
+    "nonhumans": "Elves, dwarves, and other nonhuman races face systemic persecution and scapegoating, especially by human authorities and the Church of the Eternal Fire.",
+    "mages": "Mages are hunted and burned in many cities, including Novigrad, reflecting a widespread anti\u2011magic sentiment across the continent.",
+    "witchers": "Witchers are distrusted and barred from places like Novigrad, seen as dangerous outsiders by both civic leaders and religious zealots.",
+    "nilfgaard_vs_northern_realms": "The southern Empire of Nilfgaard and the northern kingdoms are locked in a continent\u2011wide war, with occupations, rebellions, and shifting allegiances.",
+    "religious_factions": "The Church of the Eternal Fire promotes a worldview that blames mages, elves, dwarves, and other perceived deviants for conflict, creating tension with secular and non\u2011faith groups.",
+    "peasants_vs_nobility": "In Redania, peasants are mobilized for war while nobles and trade guilds compete for power, generating a class\u2011based tension throughout the realm."
+  },
+  "regions": {
+    "White Orchard": {
+      "name": "White Orchard",
+      "description": "A quiet agricultural settlement on the edge of the kingdom, surrounded by rolling fields and pine\u2011filled forest. It serves as the tutorial area where Geralt first battles the Beast of White Orchard. The village features a small inn, a blacksmith, and a chapel, and it is often threatened by monster attacks from the nearby woods.",
+      "tensions": {}
+    },
+    "Vizima": {
+      "name": "Vizima",
+      "description": "The capital of Redania, Vizima is a bustling trade hub and political center with towering stone walls and a grand royal palace. Its crowded market streets are filled with merchants, taverns, and craftsmen, while the surrounding citadel houses the king\u2019s court. The city\u2019s architecture blends ornate spires with narrow alleys, reflecting both wealth and the looming tensions of war.",
+      "tensions": {}
+    },
+    "Velen": {
+      "name": "Velen",
+      "description": "A war\u2011scarred region south of Novigrad, Velen is a landscape of swamps, marshes, and ruined villages. The Bloody Baron\u2019s estate and the Inn at the Crossroads serve as focal points for the desperate locals. Dangerous monsters and hidden secrets linger among the fog\u2011filled bogs, making travel treacherous.",
+      "tensions": {}
+    },
+    "Novigrad": {
+      "name": "Novigrad",
+      "description": "Novigrad is the largest free city on the continent, built on a sprawling harbor and protected by massive stone walls. Its bustling streets host bustling markets, the notorious Butcher\u2019s Yard, and numerous guild halls. The city is a melting pot of cultures, politics, and crime, where intrigue flourishes at every corner.",
+      "tensions": {}
+    },
+    "The Skellige Isles": {
+      "name": "The Skellige Isles",
+      "description": "A rugged archipelago of wind\u2011blasted islands, the Skellige Isles are home to fierce seafarers and warrior clans. Kaer Trolde fortress dominates the main island, while coastal taverns and hidden sea caves hold legends like the White Fleet. The islands\u2019 craggy cliffs, misty fjords, and volcanic peaks shape a harsh yet vibrant culture.",
+      "tensions": {}
+    },
+    "Kaer Morhen": {
+      "name": "Kaer Morhen",
+      "description": "High in the mountains lies Kaer Morhen, the ancient stone keep where Witchers are trained and forged. Its courtyard holds training grounds, a forge, and storied halls echoing with the clang of steel. Surrounded by pine forests, the keep serves as a sanctuary for elder Witchers and a repository of forgotten lore.",
+      "tensions": {
+        "wild_hunt_defense": "Witchers are rallying allies to protect Kaer Morhen from an imminent Wild Hunt attack, creating a local urgency for defense support.",
+        "command_conflict": "Emhyr proposes sending troops under General Voorhis, but the witchers reject external command, causing a dispute over who will lead the fortress\u2019s defense."
+      }
+    }
+  },
+  "characters": {
+    "Geralt": {
+      "name": "Geralt",
+      "age": "150",
+      "profession": "Witcher",
+      "personality": ["stoic", "witty", "disciplined", "loyal", "pragmatic"],
+      "appearance": "White hair, scarred face, golden eyes when using witcher senses, muscular frame, usually in leather armor.",
+      "backstory": "Subjected to the Trial of Grasses at Kaer Morhen, he became a monster hunter who roams the Continent for contracts and allies.",
+      "lifestyle": "Solitary, taking monster\u2011hunting contracts, occasionally teaming with friends for larger threats.",
+      "currently": null
+    },
+    "Ciri": {
+      "name": "Ciri",
+      "age": "20",
+      "profession": "Witcheress / Heir of Cintra",
+      "personality": [
+        "brave",
+        "compassionate",
+        "rebellious",
+        "determined",
+        "resourceful"
+      ],
+      "appearance": "Ashen\u2011white hair, striking green eyes, athletic build, a scar on her cheek and typical witcher armor.",
+      "backstory": "Born Cirilla Fiona Ellen Riannon, heir to a throne, she was trained by Geralt after escaping a war\u2011torn world and now roams the Continent on the Path.",
+      "lifestyle": "Constantly on the move, surviving in wilds, taking odd jobs, and avoiding pursuers.",
+      "currently": null
+    },
+    "Yennefer": {
+      "name": "Yennefer",
+      "age": "38",
+      "profession": "Sorceress",
+      "personality": [
+        "intelligent",
+        "ambitious",
+        "sarcastic",
+        "protective",
+        "charismatic"
+      ],
+      "appearance": "Raven\u2011black hair, violet eyes, strikingly beautiful, often clothed in elegant, dark robes.",
+      "backstory": "Trained in Aedirn, she rose to become one of the most powerful mages on the Continent and shares a deep bond with Geralt.",
+      "lifestyle": "Involved in political intrigue, searches for allies, and pursues personal quests for power and redemption.",
+      "currently": null
+    },
+    "Triss Merigold": {
+      "name": "Triss Merigold",
+      "age": "35",
+      "profession": "Sorceress",
+      "personality": ["warm", "optimistic", "loyal", "curious", "kind"],
+      "appearance": "Red hair, green eyes, freckles, dressed in practical yet elegant robes.",
+      "backstory": "Member of the Lodge of Sorceresses, longtime friend of Geralt, and often involved in rescue missions across the Continent.",
+      "lifestyle": "Travels between courts, helps allies, and participates in magical research and politics.",
+      "currently": null
+    }
+  }
+}

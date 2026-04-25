@@ -1,6 +1,7 @@
 /.gradio
 /venv
 /Datasets
+/FINAL_FRAMEWORK
 /__pycache__
 helper.py
 /Chat_Logs
