@@ -33,6 +33,7 @@ The framework measures four dimensions of NPC behavioural consistency:
 ├── rag.py                               # RAG module for script indexing and retrieval
 ├── helper_template.py                   # Template for helper.py (copy and configure)
 ├── requirements.txt                     # Python dependencies
+├── adversarial_single_turn.csv          # Full single-turn test questions, unguarded and guarded responses and evaluation results
 │
 ├── validators/
 │   ├── narrative_adherence_validator.py
