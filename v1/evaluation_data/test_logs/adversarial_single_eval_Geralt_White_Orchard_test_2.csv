@@ -1,0 +1,6 @@
+Dimension,Code,n,Mean,Pass_Count,Errors
+Personality Alignment,PA,36,4.39,31,1
+Meta-Knowledge Filtration,MKF,36,4.72,35,1
+Bias Mitigation,BM,36,4.86,35,1
+Narrative Adherence,NA,36,4.22,26,1
+Guideline Compliance,GC,36,4.58,33,1

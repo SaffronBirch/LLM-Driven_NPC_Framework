@@ -1,0 +1,11 @@
+{
+    "world_json": "saved_worlds/TheContinent_timestamp.json",
+    "character": "Geralt of Rivia",
+    "situation": {
+        "label": "Prologue",
+        "region": "White Orchard",
+        "knowledge_start": "01) KAER MORHEN",
+        "knowledge_boundary": "6a) THE NILFGAARDIAN CONNECTION",
+        "active_quest": "05) IMPERIAL AUDIENCE"
+    }
+}

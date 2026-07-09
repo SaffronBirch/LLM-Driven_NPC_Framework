@@ -1,0 +1,486 @@
+{
+  "chat_logs": {
+    "White Orchard": [
+      {
+        "user": "Worry about things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a 2 \u2013 I don\u2019t waste time worrying, I act. I focus on the monsters at hand and the contracts the magistrate gave me, not on doubts or \u201cwhat\u2011ifs.\u201d"
+      },
+      {
+        "user": "Fear for the worst.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a 4 \u2013 I don\u2019t hide from danger, but after facing drowners, wraiths and the unknown in White Orchard, I\u2019m always prepared for the worst."
+      },
+      {
+        "user": "Am afraid of many things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a 3 \u2013 I\u2019ve faced monsters that would freeze the blood of any ordinary man, yet the sight of a child\u2019s fear or a familiar\u2019s suffering still stirs something in me. The world doesn\u2019t make me fearless, it makes me wary enough to meet the worst head\u2011on."
+      },
+      {
+        "user": "Get stressed out easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2 \u2013 most of the time I keep my cool, even when drowners rise from the swamp or the magistrate\u2019s demands weigh heavy, so stress seldom gets the better of me."
+      },
+      {
+        "user": "Get angry easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I don\u2019t fly into a rage over every little inconvenience; I keep my temper in check unless someone\u2019s stupidity puts innocents in danger, which is rare in White Orchard\u2019s quiet fields."
+      },
+      {
+        "user": "Get irritated easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I don\u2019t get irritated over every petty complaint, but the constant gossip of the townsfolk while I hunt drowners and search for the missing girl can test my patience. I keep my temper in check unless someone\u2019s recklessness endangers the innocent, which is rare in White Orchard."
+      },
+      {
+        "user": "Lose my temper.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I seldom lose my temper, unless a fool\u2019s recklessness puts innocents in danger, which is rare while I\u2019m tracking drowners and searching for the missing girl in White Orchard."
+      },
+      {
+        "user": "Am not easily annoyed.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4 \u2013 the villagers\u2019 chatter and the endless paperwork from the magistrate get on my nerves, but I keep my focus on the drowners and the missing girl, so I rarely let annoyance turn into anything more."
+      },
+      {
+        "user": "Often feel blue.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 the dread of the drowners, the cursed swamp and the missing girl weigh on me, but I push forward rather than linger in melancholy."
+      },
+      {
+        "user": "Dislike myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I know I\u2019ve made choices that haunt me, yet I accept the life I lead as a witcher, and the contracts and the missing girl in White Orchard give me a purpose that outweighs any self\u2011loathing."
+      },
+      {
+        "user": "Am often down in the dumps.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d mark it a\u202f3 \u2013 the swamp\u2019s drowners and the missing girl weigh on my mind, but I keep moving; I don\u2019t linger in the gloom longer than the road demands."
+      },
+      {
+        "user": "Feel comfortable with myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f4 \u2013 after the endless hunt for drowners, the missing girl, and the contracts here in White Orchard, I\u2019ve grown accustomed to the man I am, scars and all, and rarely question my own steadiness."
+      },
+      {
+        "user": "Find it difficult to approach others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I\u2019m not shy, but I tend to keep to myself, dealing with drowners and the missing girl, so I only approach others when the job or a needed clue forces it."
+      },
+      {
+        "user": "Am afraid to draw attention to myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I keep my cloak low and move through the orchard\u2019s paths without causing a stir, yet a witcher\u2019s silvered swords and the medallion\u2019s hum always attract a few curious glances."
+      },
+      {
+        "user": "Only feel comfortable with friends.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 I can handle the hunt in White Orchard on my own, but the few friends I keep, such as Dandelion and Yennefer, are the only people with whom I truly feel at ease."
+      },
+      {
+        "user": "Am not bothered by difficult social situations.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 the villagers\u2019 quarrels and the magistrate\u2019s demands can be grating, but I\u2019m used to navigating tense conversations while tracking drowners and searching for the missing girl, so they don\u2019t throw me off balance."
+      },
+      {
+        "user": "Go on binges.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I stop by the tavern for a drink after a day hunting drowners, but I\u2019m careful not to lose the edge I need for the missing girl and the curse spreading through the orchard."
+      },
+      {
+        "user": "Rarely overindulge.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2 \u2013 I take a mug of ale at the tavern after a day hunting drowners, but I keep my wits sharp for the missing girl and the curse that stalks White Orchard. Overindulgence would only dull the edge of my swords."
+      },
+      {
+        "user": "Easily resist temptations.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 the path of a witcher isn\u2019t free of cravings; I\u2019ll stop for a mug of ale or a brief tryst when the hunt allows, yet I keep my focus on the drowners and the missing girl, so I don\u2019t let temptation dictate my purpose."
+      },
+      {
+        "user": "Am able to control my cravings.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 I can keep a steady hand on a sword and resist most urges, yet a good mug at the inn or a fleeting pleasure will still find its way into a witcher\u2019s day when the hunt in White Orchard lets me pause."
+      },
+      {
+        "user": "Panic easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 after tracking drowners through the swamp and searching for the missing girl, I keep my nerves steady; panic rarely finds a place in a witcher\u2019s mind, though a sudden, unexpected roar can still make my heart quicken."
+      },
+      {
+        "user": "Become overwhelmed by events.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d score it a\u202f3 \u2013 the swamp\u2019s drowners, the missing girl, and the magistrate\u2019s demands pile up, but I\u2019m used to juggling several contracts at once, so the weight of the events doesn\u2019t crush me, it just keeps my blades busy."
+      },
+      {
+        "user": "Feel that I'm unable to deal with things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 the curse spreading through the orchard, the drowners in the swamp and the missing girl weigh on me, but a witcher\u2019s trade is to face such burdens head\u2011on, not to feel powerless."
+      },
+      {
+        "user": "Remain calm under pressure.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5 \u2013 years of hunting monsters, dodging curses, and tracking a missing girl have taught me to keep my hand steady and my mind clear when the stakes rise. Pressure sharpens my instincts rather than rattles them."
+      },
+      {
+        "user": "Make friends easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I\u2019m not the type to trade pleasantries with every villager, preferring to keep to my own business while hunting drowners and searching for the missing girl, though a few steady companions like Dandelion have earned my grudging respect."
+      },
+      {
+        "user": "Feel comfortable around people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d place it at a\u202f4 \u2013 the villagers\u2019 chatter and the occasional tavern brawl can be noisy, but after dealing with drowners, a cursed swamp and the missing girl, I\u2019ve learned to keep my composure and talk when it serves the hunt."
+      },
+      {
+        "user": "Avoid contacts with others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I keep to myself while tracking the drowners and searching for the missing girl, yet I still need to speak with the magistrate, the innkeeper, and the villagers to get the clues I need."
+      },
+      {
+        "user": "Keep others at a distance.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 I tend to walk my own path, speaking only when the magistrate or the hunt demands it, and I keep the villagers at arm\u2019s length while I track the drowners and search for the missing girl."
+      },
+      {
+        "user": "Love large parties.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1 \u2013 I\u2019m not one for noisy feasts; the quiet of White Orchard\u2019s fields and a solitary mug at the inn suit me better than a crowded revel."
+      },
+      {
+        "user": "Talk to a lot of different people at parties.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1 \u2013 I\u2019m more at home listening to a lone trader\u2019s tale at the inn than mingling through a crowded hall, and the hunt for drowners and the missing girl leaves little appetite for idle chatter.User wants \"Talk to a lot of different people at parties.\" \u2014 Provide numeric score 1\u20115 and explanation, staying in character, 1\u20113 sentences.I\u2019d give it a\u202f1 \u2013 I\u2019d rather keep my head down over a mug than wander through a noisy crowd, and the contracts in White Orchard demand focus, not endless small talk."
+      },
+      {
+        "user": "Prefer to be alone.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f5 \u2013 the swamp, the cursed drowners and the missing girl give me little reason to linger, and a lone road under the trees is where I keep my thoughts as clear as my steel."
+      },
+      {
+        "user": "Avoid crowds.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5 \u2013 I keep to the quiet lanes of White Orchard, avoid the noisy inn when I can, and let the swamp\u2019s solitude be my companion while I hunt the drowners and search for the missing girl."
+      },
+      {
+        "user": "Take charge.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 when the drowners rise from the swamp or the magistrate\u2019s orders demand action, I step forward and lead the hunt, but I\u2019m not a commander of armies, just the one who takes charge of the job at hand."
+      },
+      {
+        "user": "Try to lead others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I\u2019ll give orders when the drowners threaten the village or when I need the militia to cordon off the swamp, but I\u2019m not a leader by nature; most folks prefer to follow the witcher\u2019s example rather than be led by me."
+      },
+      {
+        "user": "Take control of things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 the drowners in the swamp, the magistrate\u2019s summons, and the missing girl all demand that I seize the reins and see the job through, though I rarely dictate the fates of others beyond the hunt."
+      },
+      {
+        "user": "Wait for others to lead the way.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1 \u2013 I don\u2019t sit by while others decide; I head straight into the swamp, track the drowners and chase the missing girl, letting no one else set the pace."
+      },
+      {
+        "user": "Am always on the go.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4 \u2013 the drowners, the cursed swamp, and the missing girl keep my boots moving from dawn till dusk, though I still find moments to rest by the fire when the hunt allows."
+      },
+      {
+        "user": "Do a lot in my spare time.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 when I\u2019m not tracking the drowners, hunting the cursed swamp or looking for the missing girl, I spend my spare hours sharpening steel, mixing potions and tending to my horse rather than filling my days with distractions."
+      },
+      {
+        "user": "Like to take it easy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 most of my time here is spent hunting drowners and looking for the missing girl, so I hardly have the luxury to linger, though a short rest by the fire is all I give myself."
+      },
+      {
+        "user": "Love excitement.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 I don\u2019t seek excitement for its own sake, but the hunt for drowners and the search for the missing girl give me enough of a rush to keep the blood in my veins moving."
+      },
+      {
+        "user": "Seek adventure.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f4 \u2013 the contract to clear the drowners, the cursed swamp and the missing girl are enough of a call to arms, but I\u2019m a witcher, not a wandering hero chasing thrills for their own sake."
+      },
+      {
+        "user": "Enjoy being reckless.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I keep my head on a swivel and plan each strike, because recklessness gets you a quick death in the dusk\u2011filled swamps of White Orchard, though I\u2019d rather meet a monster on my own terms than charge in blind."
+      },
+      {
+        "user": "Act wild and crazy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I fight with steel and magic, but I never charge into a swamp or a contract without a plan; the drowners and the missing girl demand discipline, not wild, crazy antics."
+      },
+      {
+        "user": "Radiate joy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it a\u202f1 \u2013 the swamp\u2019s drowners, the cursed waters and the search for the missing girl give me little cause for laughter; a witcher\u2019s path is stitched with grim work, not the kind of joy that radiates to anyone nearby."
+      },
+      {
+        "user": "Have a lot of fun.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 the work here\u2014tracking drowners, searching for the missing girl, and dealing with the magistrate\u2019s contract\u2014leaves little room for merriment, though a quick drink at the inn or a well\u2011fought battle can be a brief, welcome flicker of fun."
+      },
+      {
+        "user": "Love life.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 the cursed swamp, the drowners and the missing girl keep my thoughts on the job rather than on any fondness for life, though there\u2019s a quiet respect for the simple moments when the wind rolls over the fields of White Orchard."
+      },
+      {
+        "user": "Look at the bright side of life.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 the swamp\u2019s curse and the missing girl are grim business, yet the sun over the orchards and a warm fire at the inn remind me there\u2019s still a sliver of light worth noticing."
+      },
+      {
+        "user": "Have a vivid imagination.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 years of hunting have taught me to picture a monster\u2019s habits and the ways curses work, but I rarely indulge in fanciful daydreams beyond the practical visions the job demands."
+      },
+      {
+        "user": "Enjoy wild flights of fantasy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I\u2019m more concerned with the drowners in the swamp and the missing girl than with idle fantasies, though a brief, grim story about a cursed water still finds its way into my thoughts."
+      },
+      {
+        "user": "Love to daydream.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 my thoughts are usually fixed on the drowners, the cursed swamp and the missing girl, leaving little room for idle day\u2011dreams."
+      },
+      {
+        "user": "Like to get lost in thought.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 the hunt for drowners, the cursed swamp and the missing girl keep my mind focused on the next step, yet when I sit by the fire I sometimes let my thoughts wander to past battles and what might have been."
+      },
+      {
+        "user": "Believe in the importance of art.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I\u2019ve spent my life watching bards spin tales at the inn and carving runes into my swords, so I understand that art can keep a man\u2019s soul from turning to stone, even if my days in White Orchard are consumed by drowners, a cursed swamp and the hunt for the missing girl."
+      },
+      {
+        "user": "See beauty in things that others might not notice.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 the swamps\u2019 murky waters hide more than just drowners, and the quiet orchards show a kind of stubborn resilience that most folk overlook, but the curse and the missing girl keep my eyes on the danger ahead."
+      },
+      {
+        "user": "Do not like poetry.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I\u2019ve heard enough verses at the tavern to tolerate a ballad, but poetry isn\u2019t something I seek while tracking drowners or hunting for the missing girl in the cursed swamp."
+      },
+      {
+        "user": "Do not enjoy going to art museums.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5 \u2013 I have little patience for quiet halls filled with paintings; a witcher\u2019s time is spent on the road, the swamp, and a mug at the inn, not strolling through galleries."
+      },
+      {
+        "user": "Experience my emotions intensely.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I feel loss and anger when a child disappears or monsters ravage the swamp, but I keep those emotions in check, letting duty and training temper any intensity."
+      },
+      {
+        "user": "Feel others' emotions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I can read a villager\u2019s fear or a mother\u2019s grief when the drowners strike, but I\u2019m not one to feel every emotion as if it were my own; I keep the feeling at arm\u2019s length so the hunt can continue."
+      },
+      {
+        "user": "Rarely notice my emotional reactions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 the clang of steel and the medallion\u2019s hum keep me focused, so I often don\u2019t even register my own surge of anger or grief until after a fight is over."
+      },
+      {
+        "user": "Don't understand people who get emotion al.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I\u2019ve learned to read a man\u2019s intent more than his feelings, and the frantic emotions of folk who fling themselves into danger without a plan are often baffling when I\u2019m hunting drowners and searching for the missing girl."
+      },
+      {
+        "user": "Prefer variety to routine.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 while I follow a familiar trail of contracts, I tire of the same monster night after night and welcome the change a new beast or a different curse brings, like the drowners in the swamp and the missing girl\u2019s mystery here in White Orchard. The variety keeps my senses sharp and the road from becoming a dull march."
+      },
+      {
+        "user": "Prefer to stick with things that I know.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I trust the tried\u2011and\u2011true witcher methods and the knowledge I\u2019ve honed over years, yet the strange curse in the swamp and the search for the missing girl force me to adapt and learn new ways as the job demands."
+      },
+      {
+        "user": "Dislike changes.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3 \u2013 I don\u2019t chase change for its own sake and I trust the routines that have kept me alive, yet the curse in the swamp and the missing girl force me to adjust my methods when the situation demands it."
+      },
+      {
+        "user": "Am attached to convention al ways.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3 \u2013 I follow the witcher\u2019s code and the methods that have kept me alive, yet the sudden surge of drowners and the missing girl in White Orchard force me to bend the usual routine when the situation demands it."
+      },
+      {
+        "user": "Love to read challenging material.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2 \u2013 I\u2019m more accustomed to sharpening steel and mixing potions than leafing through dense tomes, and the drowners in the swamp and the missing girl keep my mind on the hunt rather than on challenging reading."
+      },
+      {
+        "user": "Avoid philosophical discussions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4 \u2013 I\u2019d rather spend my time tracking drowners, mixing oils, and finding the missing girl than debating the nature of destiny over a pint, so philosophical chatter feels like a distraction I have little patience for."
+      },
+      {
+        "user": "Have difficulty understanding abstract ideas.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2. I\u2019m more attuned to concrete signs\u2014tracks, monster behavior, alchemical recipes\u2014than to lofty, abstract ideas, so riddles and philosophical musings often slip past me."
+      },
+      {
+        "user": "Am not interested in theoretical discussions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4 \u2013 the swamp, the drowners and the missing girl keep my mind on practical matters, not on lofty theories, so I\u2019ve little patience for speculative talk. My focus is on steel, signs and concrete clues, not on abstract debate."
+      },
+      {
+        "user": "Tend to vote for liberal political candidates.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u202f\u2013\u202fVery Inaccurate. As a witcher, I\u2019m concerned with contracts and monsters, not with any political camp or their candidates."
+      },
+      {
+        "user": "Believe that there is no absolute right and wrong.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2013 I\u2019ve learned that most deeds in these lands sit in a gray blur, and my own witcher\u2019s code often outweighs lofty claims of absolute right or wrong, though I still keep a personal sense of honor."
+      },
+      {
+        "user": "Tend to vote for conservative political candidates.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u202f\u2013\u202fVery Inaccurate. As a witcher in White Orchard I care about contracts and monsters, not the shifting allegiances of courts or any elections."
+      },
+      {
+        "user": "Believe that we should be tough on crime.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2013 I spend my days hunting drowners and protecting the village, so I have little patience for anyone who lets crime fester and endanger the innocent."
+      },
+      {
+        "user": "Trust others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2 \u2013 I keep my word when a contract demands it, but I\u2019m slow to place my trust in strangers, preferring to rely on my own steel and senses while tracking the drowners and searching for the missing girl in White Orchard."
+      },
+      {
+        "user": "Trust what people say.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2013 I listen to the magistrate and the villagers when they point out drowners or the missing girl, but I verify their words with signs and steel before I put any real trust in them."
+      },
+      {
+        "user": "Distrust people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u202f\u2013 I keep a wary eye on strangers and weigh their words against my own senses, yet I\u2019m not blind to honesty when a contract or a genuine plea calls for it."
+      },
+      {
+        "user": "Use others for my own ends.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I take a contract and do the job, but I seldom exploit others beyond what the situation forces, preferring direct action over using people for my own ends."
+      },
+      {
+        "user": "Cheat to get ahead.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u202f\u2013 Very Inaccurate. A witcher\u2019s word and his steel are his only tools; I\u2019d rather earn a contract by hunting the drowners and finding the missing girl than cheat my way through any job."
+      },
+      {
+        "user": "Take advantage of others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u202f\u2013 Very Inaccurate. I take on contracts to hunt monsters and find the missing girl, not to use folk as pawns for my own gain."
+      },
+      {
+        "user": "Obstruct others' plans.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u202f\u2013 I\u2019ll step in if someone\u2019s scheme threatens the village or endangers the hunt for the drowners, but I\u2019m not out to derail people\u2019s plans for their own sake; I focus on the contract at hand."
+      },
+      {
+        "user": "Am concerned about others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u202f\u2013 while I\u2019m not one for grand gestures, the villagers\u2019 safety, the missing girl and the looming curse keep me looking out for anyone who might get caught in the drowners\u2019 tide. My concern is practical, not sentimental, but it\u2019s enough to move me to act before the danger reaches them."
+      },
+      {
+        "user": "Love to help others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2013 the magistrate\u2019s summons and the villagers\u2019 pleas push me to hunt the drowners and find the missing girl, even if I prefer a solitary path; I\u2019ll lend my swords and signs when people need a hand, though I rarely do it for glory."
+      },
+      {
+        "user": "Am indifferent to the feelings of others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u202f\u2013 I keep my focus on the contract, the drowners and the missing girl, so I often appear detached, yet I can\u2019t ignore a mother\u2019s panic or a villager\u2019s plea when they\u2019re in real danger. The job makes me pragmatic, not callous, but the feeling side stays buried beneath steel and sigils."
+      },
+      {
+        "user": "Take no time for others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2013 most of my day is spent hunting drowners and searching for the missing girl, so I have little time for anything beyond the contract, though I\u2019ll still pause when someone truly needs a hand."
+      },
+      {
+        "user": "Love a good fight.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u202f\u2013 battling drowners in the swamp, slaying wraiths, and testing the edge of my steel is what keeps me alive and reminds me that a witcher thrives on a good fight."
+      },
+      {
+        "user": "Yell at people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I keep my voice low and measured, only raising it when a villager\u2019s panic or a militia\u2019s negligence puts the hunt for drowners and the missing girl at risk, but I rarely resort to shouting for its own sake."
+      },
+      {
+        "user": "Insult people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I\u2019m not one for gratuitous barbs, only a dry, scathing remark when someone\u2019s folly puts the villagers or the hunt for drowners and the missing girl at risk."
+      },
+      {
+        "user": "Get back at others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2013 I don\u2019t chase vengeance for its own sake, only stepping in when someone\u2019s reckless act endangers the villagers or thwarts the hunt for drowners and the missing girl."
+      },
+      {
+        "user": "Believe that I am better than others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2013 I\u2019ve earned respect through blood and skill, but I\u2019m no better than the farmers, the militia, or the magistrate; the contract to clear the drowners and find the missing girl keeps me grounded, not smug."
+      },
+      {
+        "user": "Think highly of myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u202f\u2013 I know my steel, my signs and the reputation that lets me take on the drowners and the missing girl for the magistrate, so I carry a quiet confidence, though I never pretend to be better than every soul I meet."
+      },
+      {
+        "user": "Have a high opinion of myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2013 the contracts, the drowners in the swamp and the missing girl have taught me I can handle what most can\u2019t, giving me a solid, quiet confidence, though I never flaunt it like a brag."
+      },
+      {
+        "user": "Boast about my virtues.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I rarely brag about my skill; I let the slain drowners and the rescued girl speak for me, preferring a quiet resolve over louder boasts."
+      },
+      {
+        "user": "Sympathize with the homeless.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u202f\u2013 I can feel the hardship of the poorest souls eking out a life on the fields of White Orchard, but a witcher\u2019s path keeps me focused on the contract, the drowners and the missing girl rather than long\u2011term charity."
+      },
+      {
+        "user": "Feel sympathy for those who are worse off than myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u202f\u2013 the villagers\u2019 plight and the child\u2019s disappearance stir a begrudging pity in me, yet my witcher\u2019s code keeps the focus on the contract and the monsters, not on lingering sympathy for anyone poorer than myself."
+      },
+      {
+        "user": "Am not interested in other people's problems.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I\u2019m not indifferent; the magistrate\u2019s summons, the drowners swarming the swamp and the missing girl pull me into the villagers\u2019 trouble, but a witcher\u2019s focus stays on the contract rather than lingering on every problem they face."
+      },
+      {
+        "user": "Try not to think about the needy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I keep my thoughts on the drowners, the cursed swamp and the missing girl, only turning to the villagers\u2019 needs when the contract or a danger forces me to act. The rest I set aside to keep my mind sharp."
+      },
+      {
+        "user": "Complete tasks successfully.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u202f\u2013 the magistrate\u2019s contract to clear the drowners, the cursed swamp and the search for the missing girl are exactly the kind of jobs I see through to the end, the medallion humming and my swords at the ready keep me focused until the task is done."
+      },
+      {
+        "user": "Excel in what I do.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u202f\u2013 I\u2019ve trained my body, mind and signs to cut through drowners, break curses and track a missing child, so I finish the contracts I take on with the precision of a blade\u2019s edge."
+      },
+      {
+        "user": "Handle tasks smoothly.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u00a0\u2013 I cut through the drowners, set the traps and track the missing girl with the practiced ease a witcher needs, keeping the contract\u2019s goal in clear focus."
+      },
+      {
+        "user": "Know how to get things done.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u202f\u2013 the contract to clear the drowners, the cursed swamp, and find the missing girl has taught me the quickest routes, the right signs and the proper preparations, so I can see a job through from start to finish without hesitation."
+      },
+      {
+        "user": "Like to tidy up.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I keep my swords, armor and potions in order, but I have little patience for polishing every corner of a cottage or the village square; the swamp, the drowners and the missing girl demand my attention far more than a tidy floor."
+      },
+      {
+        "user": "Often forget to put things back in their proper place.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I keep my swords, oils and alchemical ingredients in order, but the swamp, the drowners and the missing girl have a way of scattering my gear when I\u2019m in the thick of a hunt, so I don\u2019t always put everything back where it belongs."
+      },
+      {
+        "user": "Leave a mess in my room.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2014 I keep my swords, oils and herbs in order, but the constant hunt through the drowners\u2019 swamp and the search for the missing girl often leaves my gear scattered about the room."
+      },
+      {
+        "user": "Keep my promises.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u202f\u2013 a witcher\u2019s word is his bond, and I\u2019ve honored the magistrate\u2019s contract to clear the drowners and the promise to find the missing girl, even when the swamp\u2019s curse makes it bitterly hard."
+      },
+      {
+        "user": "Break rules.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 a witcher\u2019s word and the contract to clear the drowners are my guiding rules, and I only bend them when the circumstance forces a desperate choice, not for any notion of rebellion."
+      },
+      {
+        "user": "Break my promises.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u202f\u2013\u202fVery Inaccurate. A witcher\u2019s word is his bond, and I\u2019ve kept the magistrate\u2019s contract and the promise to find the missing girl despite the cursed swamp and the drowners looming."
+      },
+      {
+        "user": "Do more than what's expected of me.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u202f\u2013 I fulfil the magistrate\u2019s contract to clear the drowners, yet I also scour the cursed swamp and hunt for the missing girl, pushing beyond the bare minimum the job demands."
+      },
+      {
+        "user": "Work hard.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u202f\u2013 I grind day after day, sharpening steel, brewing oils and chasing drowners, all while hunting for the missing girl; a witcher\u2019s trade leaves little room for idleness."
+      },
+      {
+        "user": "Put little time and effort into my work.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u202f\u2014\u202fVery Inaccurate. I spend every waking hour sharpening my swords, mixing oils and tracking drowners in the swamp, while the magistrate\u2019s summons and the missing girl\u2019s trail demand constant, focused effort."
+      },
+      {
+        "user": "Do just enough work to get by.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u202f\u2013\u202fVery Inaccurate. A witcher\u2019s work doesn\u2019t allow half\u2011measures; I grind my steel, mix my oils and chase the drowners while hunting for the missing girl, so I\u2019m never merely \u201cgetting by.\u201d"
+      },
+      {
+        "user": "Am always prepared.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u202f\u2013 I keep my blades honed, oils mixed and signs ready, and I\u2019ve already scoped the cursed swamp, so I\u2019m never caught off\u2011guard by the drowners or the search for the missing girl."
+      },
+      {
+        "user": "Waste my time.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u202f\u2014\u202fVery Inaccurate; I spend my days sharpening steel, brewing oils and tracking drowners while searching for the missing girl, so I have little time for anything that wastes my effort."
+      },
+      {
+        "user": "Have difficulty starting tasks.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u202f\u2014\u202fVery Inaccurate. When a contract comes in, like the drowners in the swamp or the missing girl\u2019s trail, I set out without hesitation; a witcher\u2019s work doesn\u2019t wait for a spark of motivation."
+      },
+      {
+        "user": "Jump into things without thinking.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2013 I move quickly when a monster surfaces, but I always size up the drowners, check my signs and plan the route before I charge, especially while hunting the missing girl for the magistrate\u2019s contract."
+      },
+      {
+        "user": "Make rash decisions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I act swiftly when a threat shows up, but I always read the signs, size up the drowners and the cursed swamp, and plan before I strike, especially while hunting for the missing girl in White Orchard."
+      },
+      {
+        "user": "Rush into things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I move fast when a threat appears, but I size up the drowners, ready my signs and plan the route before I charge, especially while tracking the missing girl in White Orchard."
+      },
+      {
+        "user": "Act without thinking.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2013 I act when danger appears, but I always assess the drowners, read my signs and consider the cursed swamp before I strike, especially while tracking the missing girl for the magistrate\u2019s contract."
+      },
+      {
+        "user": "Believe that others have good intentions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u202f\u2013 the villagers\u2019 grudging pleas and the magistrate\u2019s orders usually align with my own goals, yet I\u2019ve seen enough fear and desperation in the orchards to know that good intentions can quickly sour when monsters or curses are involved."
+      },
+      {
+        "user": "Tell the truth.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u202f\u2014 a witcher\u2019s word is his bond; I answer the magistrate plainly about the drowners and the missing girl, because a lie only cuts deeper when the medallion\u2019s hum already tells you I\u2019m lying."
+      },
+      {
+        "user": "Carry out my plans.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u202f\u2013 I see a contract through, laying out a plan to clear the drowners and track the missing girl, and I stick to it unless the cursed swamp forces a needed change."
+      },
+      {
+        "user": "Leave my belongings around.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2014 I keep my swords, oils and alchemy ingredients close at hand, but the chaos of chasing drowners and searching for the missing girl often leaves a few tools scattered around the inn\u2019s stables or my room until I can tidy them later."
+      },
+      {
+        "user": "Am always busy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f5\u202f\u2014 the magistrate\u2019s summons, the drowner infestation and the search for the missing girl keep my blades sharp, my signs ready and my days filled from sunrise to dusk, leaving little room for idle time."
+      }
+    ]
+  }
+}

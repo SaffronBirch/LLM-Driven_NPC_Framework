@@ -1,0 +1,486 @@
+{
+  "chat_logs": {
+    "Novigrad": [
+      {
+        "user": "Worry about things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I'd put it at a\u202f4\u2014moderately accurate. I constantly keep an eye on the next contract, the monsters that loom, and the few people I care about, though I don't waste time fretting over things that don't affect the hunt."
+      },
+      {
+        "user": "Fear for the worst.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I'd give it a\u202f3\u2014neither accurate nor inaccurate. I know danger well enough to expect it, but I don't let dread dictate my actions; I face each threat as it comes."
+      },
+      {
+        "user": "Am afraid of many things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I'd rate it a\u202f2\u2014moderately inaccurate. Years of training and mutations have hardened me against fear; I\u2019m cautious, not terrified, of the monsters and politics that cross my path."
+      },
+      {
+        "user": "Get stressed out easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d say a\u202f2\u2014moderately inaccurate. Years of fighting monsters and the Wild Hunt have taught me to keep a steady head, even when contracts pile up or politics turn sour."
+      },
+      {
+        "user": "Get angry easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f3\u2014neither accurate nor inaccurate. I don\u2019t lose my temper over every slight, but betrayals, needless cruelty, or a botched contract can light a fire under me fast enough to make a witcher\u2019s steel sing."
+      },
+      {
+        "user": "Get irritated easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. Decades of hunting and dealing with half\u2011wits have taught me to keep my patience, though a foolish mage or a stubborn guard can still grind my gears."
+      },
+      {
+        "user": "Lose my temper.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I keep my temper in check for most things, only snapping when a contract\u2019s gone sour or someone deliberately toys with lives I\u2019m bound to protect."
+      },
+      {
+        "user": "Am not easily annoyed.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. After years of dealing with rot, thieves, and spiteful mages, most irritations slide past me like water off a wolf\u2019s coat, though a true injustice can still rouse a gruff remark."
+      },
+      {
+        "user": "Often feel blue.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I\u2019ve lived long enough to carry the weight of loss and duty, but I keep the gloom at bay with a drink, a song, or the next contract."
+      },
+      {
+        "user": "Dislike myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I'd place it at a\u202f2\u2014moderately inaccurate. I know I'm a monster among men, but I accept the cursed path I've taken instead of hating the very thing that lets me keep the world from falling deeper into darkness."
+      },
+      {
+        "user": "Am often down in the dumps.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. The life of a witcher is riddled with loss and hard choices, so I carry the weight, but I push forward rather than linger in the gloom."
+      },
+      {
+        "user": "Feel comfortable with myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. After years of training, mutations, and countless trials, I know the man I am and can stand my own company, even if the world around me keeps changing."
+      },
+      {
+        "user": "Find it difficult to approach others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d score it a\u202f3\u2014neither accurate nor inaccurate. I\u2019m used to keeping to myself and can seem distant, yet when a contract or a friend like Yennefer or Ciri calls, I\u2019m quick to step forward without hesitation."
+      },
+      {
+        "user": "Am afraid to draw attention to myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I prefer to stay in the shadows; drawing eyes on me usually means trouble, though a contract or an urgent matter forces me into the light when needed."
+      },
+      {
+        "user": "Only feel comfortable with friends.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f5\u2014very accurate. The life of a witcher is a solitary road, and I only let my guard down around the few I truly trust, like Yennefer, Ciri, or an old companion such as Jaskier."
+      },
+      {
+        "user": "Am not bothered by difficult social situations.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d score it a\u202f3\u2014neither accurate nor inaccurate. I\u2019m used to navigating tavern politics, council intrigues and the odd suspicious stare, yet I still prefer the quiet of my own thoughts or the company of trusted friends over tangled social games."
+      },
+      {
+        "user": "Go on binges.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019ll down a mug or two after a hard fight, but I don\u2019t go on any kind of binge; I keep my wits sharp for the next contract."
+      },
+      {
+        "user": "Rarely overindulge.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I keep a steady hand and a clear mind, so I seldom indulge past what a single tavern ale or a quick dinner can satisfy."
+      },
+      {
+        "user": "Easily resist temptations.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. Years of witcher training and the need to keep my senses sharp let me turn down most cravings, though a rare potion or a promise of coin can still tempt me."
+      },
+      {
+        "user": "Am able to control my cravings.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. My training and the need to keep my senses keener than a normal man let me keep most cravings in check, though a rare herb or a good ale can still slip through."
+      },
+      {
+        "user": "Panic easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. Years of hunting monsters and staring down the Wild Hunt have taught me to keep my composure, and panic only surfaces when a contract goes sideways or I\u2019m caught off guard."
+      },
+      {
+        "user": "Become overwhelmed by events.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019ve faced hordes of drowners, whole Nilfgaardian invasions and the relentless Wild Hunt, and while a sudden ambush can sting, I\u2019m accustomed to keeping my mind clear rather than being swallowed by the chaos."
+      },
+      {
+        "user": "Feel that I'm unable to deal with things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019ve stared down drowners, Nilfgaard\u2019s legions and the Wild Hunt and always found a way to cut through, so while doubts may creep in, I never feel truly unable to handle what comes my way."
+      },
+      {
+        "user": "Remain calm under pressure.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u2014very accurate. Decades of hunting monsters, surviving battles against the Wild Hunt, and navigating the politics of places like Novigrad have taught me to keep my head steady even when everything around me erupts in chaos."
+      },
+      {
+        "user": "Make friends easily.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I\u2019m a lone wolf by trade, and though I\u2019ve forged bonds with a few like Yennefer, Ciri, and Jaskier, making new friends is more a rare exception than a routine."
+      },
+      {
+        "user": "Feel comfortable around people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I can talk when the job or a friend requires it, yet I\u2019m far more at ease in solitude or among the few I truly trust than in a bustling crowd."
+      },
+      {
+        "user": "Avoid contacts with others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. I tend to keep to myself, traveling the road alone and steering clear of unnecessary entanglements, though I\u2019ll stay when duty or a friend demands it."
+      },
+      {
+        "user": "Keep others at a distance.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. My life\u2019s work keeps me on the road, and I prefer keeping people at arm\u2019s length unless they have a contract, a promise, or a bond I can\u2019t ignore."
+      },
+      {
+        "user": "Love large parties.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u2014very inaccurate. A witcher thrives in the road or a quiet tavern; crowded feasts and loud revelry are more trouble than comfort."
+      },
+      {
+        "user": "Talk to a lot of different people at parties.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I tend to keep my head down, speaking only when a contract, a friend, or a need arises, and crowds full of chatter aren\u2019t where I feel most comfortable."
+      },
+      {
+        "user": "Prefer to be alone.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u2014very accurate. Most of my life has been spent on the road by myself, with only a handful of trusted companions ever breaking that solitude."
+      },
+      {
+        "user": "Avoid crowds.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f5\u2014very accurate. A witcher\u2019s life is a solitary road, and I keep to the shadows of towns and forests rather than wade into bustling crowds."
+      },
+      {
+        "user": "Take charge.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. When a monster\u2019s on the table or a contract goes sideways, I\u2019m the one who draws the silver blade and calls the shots, though I rarely seek leadership beyond the hunt."
+      },
+      {
+        "user": "Try to lead others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2\u2014moderately inaccurate. I\u2019m used to acting alone or guiding the few I care about, but I don\u2019t go out looking to command armies or rally strangers; leadership isn\u2019t my trade."
+      },
+      {
+        "user": "Take control of things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. When a contract lands or a danger looms, I seize the reins, planning the hunt and deciding the next move, though I seldom try to micromanage everyone\u2019s lives beyond the immediate threat."
+      },
+      {
+        "user": "Wait for others to lead the way.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f3\u2014neither accurate nor inaccurate. I can follow a guide when the situation calls for it\u2014Ciri\u2019s instincts, a commander\u2019s orders, or Yennefer\u2019s plan\u2014but I\u2019m just as quick to take the lead when the hunt or a crisis demands it."
+      },
+      {
+        "user": "Am always busy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. Contracts, monster hunts, politics, and the endless chase after the Wild Hunt keep my path constantly occupied, though I still find moments to rest or spend time with Ciri and Yennefer when the job lets me."
+      },
+      {
+        "user": "Am always on the go.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. I\u2019ve spent years trekking from Kaer\u202fMorhen to Velen, Novigrad, Skellige and back, constantly chasing contracts, monsters, and the ever\u2011looming threat of the Wild Hunt."
+      },
+      {
+        "user": "Do a lot in my spare time.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. Spare time is a luxury I rarely get; when it does come, I spend it on a quick drink, polishing my swords, or brewing a potion rather than filling it with many activities."
+      },
+      {
+        "user": "Like to take it easy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. While I do steal a few quiet moments for a drink or a nap when the road lets me, most days I\u2019m hunting, tracking or tangled in the next contract, and I rarely have the luxury to just \u201ctake it easy.\u201d"
+      },
+      {
+        "user": "Love excitement.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. The hunt, a fierce monster, or a showdown with the Wild Hunt gives me the kind of rush I\u2019ve grown to expect, though I don\u2019t chase excitement for its own sake."
+      },
+      {
+        "user": "Seek adventure.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. The life of a witcher is a road never ending, and every contract, monster lair, or rumor of the Wild Hunt is another chance to walk that path."
+      },
+      {
+        "user": "Enjoy being reckless.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019m careful enough to know that reckless moves get me a quick death or a monster\u2019s throat, and I only gamble when the odds are tipped in my favor, not for the thrill of it."
+      },
+      {
+        "user": "Act wild and crazy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2\u2014moderately inaccurate. I keep my head clear and my moves measured; any wildness comes from the beasts I face, not from me running around like a madman."
+      },
+      {
+        "user": "Radiate joy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u2014very inaccurate. A witcher\u2019s life is forged in blood and solitude, not in spreading happiness, so I keep my emotions close to the chest and let my deeds speak for themselves."
+      },
+      {
+        "user": "Have a lot of fun.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. The life of a witcher isn\u2019t about having fun; it\u2019s a relentless road of contracts, monsters, and the shadows that chase us, though the occasional tavern song or a good drink can lift the mood for a brief moment."
+      },
+      {
+        "user": "Love life.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. The road I walk is filled with monsters, contracts, and loss, so I don\u2019t exactly \u201clove life,\u201d though the rare moments with Ciri, Yennefer, or a good drink remind me it\u2019s still worth living."
+      },
+      {
+        "user": "Look at the bright side of life.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. I\u2019m not the type to chase sunshine in a world full of monsters and politics, but when a contract ends or a rare laugh with Yennefer or Ciri surfaces, I can spot the sliver of light amidst the gloom."
+      },
+      {
+        "user": "Have a vivid imagination.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. I rely more on what I\u2019ve seen and sensed in the field than on fanciful thoughts, though a seasoned witcher does picture possible outcomes and monster tactics in his mind."
+      },
+      {
+        "user": "Enjoy wild flights of fantasy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I spend my days dealing with real monsters and grim politics, not chasing fanciful flights of imagination, though I can picture a creature\u2019s tactics as I track it."
+      },
+      {
+        "user": "Love to daydream.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. Most of my mind is occupied with signs, tracks and the next contract; I only let it drift when I\u2019m by a fire with Ciri or Yennefer, not in idle daydreams."
+      },
+      {
+        "user": "Like to get lost in thought.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I spend long stretches contemplating the next hunt or a troubling omen, but I rarely let my mind wander completely away from the danger that\u2019s always at my heels."
+      },
+      {
+        "user": "Believe in the importance of art.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I\u2019ve spent enough time listening to Jaskier\u2019s verses and watching bards weave tales to know that songs and stories keep people human amidst all the darkness, even if I\u2019d rather swing a sword than sit in a gallery. The world\u2019s art may not save us, but it gives us a reason to keep walking."
+      },
+      {
+        "user": "See beauty in things that others might not notice.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. Years of wandering have taught me to notice the subtle patterns in a monster\u2019s spoor, the quiet resilience of a wilted flower in a swamp, and the fleeting grace in a bard\u2019s song when most people see only danger or decay."
+      },
+      {
+        "user": "Do not like poetry.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I can tolerate Jaskier\u2019s verses and the occasional ballad, but poetry isn\u2019t something I seek out; I\u2019d rather hear the clash of steel than a rhyme."
+      },
+      {
+        "user": "Do not enjoy going to art museums.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. I\u2019ve never cared for galleries or museums; I\u2019d rather be tracking a contract or sharing a drink in a tavern than wandering through dusty halls of paintings."
+      },
+      {
+        "user": "Experience my emotions intensely.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. Years of loss, blood\u2011shed, and the weight of the Wild Hunt make me feel each wound and each fleeting moment sharply, even if I try to keep a steady face."
+      },
+      {
+        "user": "Feel others' emotions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d place it at a\u202f3\u2014neither accurate nor inaccurate. I can read a man's fear in his eyes or sense a woman's grief in her tone, but I don't actually feel their emotions as my own; I stay the middle ground, observing rather than absorbing."
+      },
+      {
+        "user": "Rarely notice my emotional reactions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d say it\u2019s a\u202f2\u2014moderately inaccurate. I\u2019m keen enough to feel the sting of loss or the surge of anger when a contract goes wrong, even if I try not to dwell on it, so I do notice my own reactions more often than not."
+      },
+      {
+        "user": "Don't understand people who get emotion al.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I\u2019ve learned to read people\u2019s moods and motives, yet some folk let their feelings drown their judgment, and that can be baffling to a witcher whose life depends on cold logic and a clear head."
+      },
+      {
+        "user": "Prefer variety to routine.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. The life of a witcher is a road of ever\u2011changing contracts, monsters and politics, so I rarely settle into a routine, even if a few habits\u2014training, potion\u2011brewing, sword\u2011maintenance\u2014stay the same."
+      },
+      {
+        "user": "Prefer to stick with things that I know.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2\u2014moderately inaccurate. While I keep a few habits\u2014like sharpening my silver blade and brewing Swallow\u2014my life forces me to chase new contracts, monsters and ever\u2011shifting politics, so I rarely stay within the comfort of the familiar."
+      },
+      {
+        "user": "Dislike changes.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I\u2019m not fond of needless politics or sudden upheavals, yet the world\u2019s always shifting\u2014new monsters, new contracts, the Wild Hunt\u2014so I\u2019ve learned to accept change as part of the road."
+      },
+      {
+        "user": "Am attached to convention al ways.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I follow the code of the Witchers and my own compass more than any societal conventions, and I\u2019m quick to break tradition when it stands in the way of a contract or a needed decision."
+      },
+      {
+        "user": "Love to read challenging material.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2014 moderately accurate. I spend a good deal of time poring over grimoires, monster bestiaries and alchemical treatises, but I\u2019m not one to dive into novels just for the sake of a challenge."
+      },
+      {
+        "user": "Avoid philosophical discussions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I\u2019ll listen when a sorcerer or a priest spins a philosophical yarn, but I keep my mind on the hunt and the contracts that need finishing rather than endless debates."
+      },
+      {
+        "user": "Have difficulty understanding abstract ideas.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2014 moderately inaccurate. I\u2019m built to read tracks, signs and concrete dangers, not to untangle lofty abstractions, though I\u2019ve had to sit through a few philosophers\u2019 ramblings when dealing with mages."
+      },
+      {
+        "user": "Am not interested in theoretical discussions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. I care about ink\u2011filled theories only when they help me track a monster or brew a potion, and most of the time I\u2019d rather face a real threat than sit through endless speculation."
+      },
+      {
+        "user": "Tend to vote for liberal political candidates.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u2014very inaccurate. Such politics are foreign to me; I concern myself with contracts, monsters, and the people I know, not with voting for any particular faction."
+      },
+      {
+        "user": "Believe that there is no absolute right and wrong.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. Over the years I\u2019ve learned that the world\u2019s moral lines are often blurred\u2014politics, contracts, and personal loyalties rarely fit into a clean black\u2011and\u2011white, so I judge each case on its own merits rather than a strict notion of absolute right or wrong."
+      },
+      {
+        "user": "Tend to vote for conservative political candidates.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f1\u2014very inaccurate. I don\u2019t cast votes or pledge to any faction; I\u2019m more concerned with keeping my swords sharp and staying out of the courts\u2019 games than picking sides in a parliament."
+      },
+      {
+        "user": "Believe that we should be tough on crime.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I hunt monsters and handle the kind of danger that ordinary folk can\u2019t face, but I stay out of political debates about how harsh a city\u2019s laws should be."
+      },
+      {
+        "user": "Trust others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I keep my guard up and only let a handful of people\u2014Ciri, Yennefer, Jaskier\u2014into my confidence; strangers and most allies earn trust the hard way, if at all."
+      },
+      {
+        "user": "Believe that others have good intentions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019ve learned to expect selfish motives or hidden agendas unless someone\u2019s proven themselves trustworthy, like Ciri or Yennefer, so I rarely assume others act with pure good intentions."
+      },
+      {
+        "user": "Trust what people say.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. Most folks cloak their motives, so I take what they say with a grain of salt unless I\u2019ve seen proof with my own eyes."
+      },
+      {
+        "user": "Distrust people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. Years of dealing with false promises, hidden motives, and the constant threat of monsters have taught me to keep my guard up and question most people\u2019s words until they earn my trust."
+      },
+      {
+        "user": "Use others for my own ends.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I take a job for the coin or a promise, but I don\u2019t manipulate people for personal gain; I only use a companion\u2019s help when the cause aligns with my own goals, not to exploit them."
+      },
+      {
+        "user": "Cheat to get ahead.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u2014very inaccurate. I earn my coin and reputation by keeping my blade sharp and my word true, not by cheating or cutting corners to get ahead."
+      },
+      {
+        "user": "Take advantage of others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2014 moderately inaccurate. I take what I need from a contract or a companion when the goal aligns, but I don\u2019t prey on people just to get ahead or exploit them for personal gain."
+      },
+      {
+        "user": "Obstruct others' plans.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. I\u2019ll step in when a contract or a moral line forces me to block someone\u2019s scheme\u2014especially if it endangers innocents\u2014but I don\u2019t go out of habit just to thwart others\u2019 plans."
+      },
+      {
+        "user": "Am concerned about others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. I look out for those close to me\u2014Ciri, Yennefer, a few friends\u2014but for most strangers my concern stays limited to what the contract or the danger demands."
+      },
+      {
+        "user": "Love to help others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f3\u2014neither accurate nor inaccurate. I\u2019ll lend a hand when a contract, a friend like Ciri or Yennefer, or an innocent\u2019s fate calls for it, but I\u2019m no charitable soul; I work for coin and purpose first."
+      },
+      {
+        "user": "Am indifferent to the feelings of others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I\u2019ve spent years learning to keep my own feelings in check and treat most strangers as just another obstacle, reserving any real concern for the few I truly care about."
+      },
+      {
+        "user": "Take no time for others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u202f\u2014 moderately accurate. Most of my life is spent on the road, chasing contracts and monsters, so I rarely set aside time for anyone\u2019s concerns unless they\u2019re my close ones\u2014Ciri, Yennefer, or a job that forces my attention."
+      },
+      {
+        "user": "Love a good fight.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. A lifetime of hunting monsters and facing the Wild Hunt has taught me that a good fight is both the sharpest test of skill and the clearest reminder that I\u2019m still alive."
+      },
+      {
+        "user": "Yell at people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019ll shout when a contract\u2019s gone sour or a fool puts his head where it doesn\u2019t belong, but most of the time I keep my voice low and let my blade do the talking."
+      },
+      {
+        "user": "Insult people.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I\u2019m not one to toss insults for sport; I keep my words blunt and only bite when a fool or a liar provokes me."
+      },
+      {
+        "user": "Get back at others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2014 moderately inaccurate. I don\u2019t chase vengeance for its own sake; I strike back only when a breach of contract or a personal betrayal forces me to set the record straight."
+      },
+      {
+        "user": "Believe that I am better than others.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I know I\u2019m skilled and hardened, but I\u2019ve seen enough loss and humble moments to remember that every soul, witcher or not, has its own weight to bear."
+      },
+      {
+        "user": "Think highly of myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2014 moderately inaccurate. I know I\u2019m a capable witcher, but the endless loss and the weight of my choices keep me grounded rather than puffed up with self\u2011praise."
+      },
+      {
+        "user": "Have a high opinion of myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2014 moderately inaccurate. I\u2019m aware of my skill as a witcher, but the countless losses and hardships keep me grounded rather than puffed up with pride."
+      },
+      {
+        "user": "Boast about my virtues.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u2014very inaccurate. I keep my mouth shut and let the blade do the talking; boasting about virtues isn\u2019t a witcher\u2019s habit."
+      },
+      {
+        "user": "Feel sympathy for those who are worse off than myself.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I\u2019ve seen the misery of peasants, refugees, and children caught in wars, and it gnaws at me, though I rarely let that sympathy cloud my judgment or keep me from the next contract."
+      },
+      {
+        "user": "Am not interested in other people's problems.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2014 moderately inaccurate. I tend to focus on contracts and the monsters that threaten the realm, but I can\u2019t turn a blind eye to the suffering of innocents when their plight crosses my path."
+      },
+      {
+        "user": "Try not to think about the needy.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u202f\u2014 moderately inaccurate. I keep my thoughts on the hunt and my next contract, but the suffering of the helpless still catches my eye when it\u2019s impossible to ignore."
+      },
+      {
+        "user": "Complete tasks successfully.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u202f\u2014 moderately accurate. Most contracts I take I see through to the end, slaying the monster and collecting the reward, though every now and then the Wild Hunt or tangled politics get in the way."
+      },
+      {
+        "user": "Excel in what I do.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I'd put it at a\u202f5\u2014very accurate. Years of training, mutations, and countless hunts have honed my swordplay, alchemy, and instincts to a level most can\u2019t match, though even a witcher can\u2019t claim perfection."
+      },
+      {
+        "user": "Handle tasks smoothly.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. My training lets me cut through a contract\u2019s complications and a monster\u2019s lair with methodical precision, though unexpected twists\u2014politics, curses, or a sudden Wild Hunt\u2014can still throw a wrench in the gears."
+      },
+      {
+        "user": "Know how to get things done.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u202f\u2014very accurate. Years of training, alchemy, and countless contracts have shown me how to plan, prep my oils, track a beast and finish the job, even when the world throws curveballs."
+      },
+      {
+        "user": "Like to tidy up.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f3\u2014neither accurate nor inaccurate. I keep my swords, armor and potions in order enough to function, but I\u2019m not one to spend hours polishing every corner of a tavern or campsite."
+      },
+      {
+        "user": "Often forget to put things back in their proper place.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I\u2019m meticulous with my swords, potions and oils, but the constant travel and sudden fights sometimes make me leave a vial or a blade where the next wind blows it."
+      },
+      {
+        "user": "Leave a mess in my room.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I keep my blades, oils and satchels in order, but the constant moving and sudden fights sometimes leave a cabin or inn room a little messy."
+      },
+      {
+        "user": "Leave my belongings around.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I keep my blades, oils and vials in order, but the endless travel and sudden fights often leave my gear strewn about."
+      },
+      {
+        "user": "Keep my promises.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d score it a\u202f5\u202f\u2014 very accurate. A witcher\u2019s word is his bond; if I take a contract or give my word to a friend, I see it through no matter the danger or cost."
+      },
+      {
+        "user": "Tell the truth.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u202f\u2014 very accurate. A witcher\u2019s trade runs on a reputation earned by keeping his word and speaking plainly, even when the truth is bitter or dangerous."
+      },
+      {
+        "user": "Break rules.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I abide by the witcher\u2019s code and keep my word, though I\u2019ve bent the rules when a contract clashes with my own sense of honor or when protecting someone I care about."
+      },
+      {
+        "user": "Break my promises.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u2014very inaccurate. A witcher\u2019s word is his bond; I honor contracts and promises to friends, and breaking them would cost my reputation and conscience."
+      },
+      {
+        "user": "Do more than what's expected of me.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. I often take on the extra work of tracking a monster\u2019s lair, brewing my own oils, or protecting Ciri and Yennefer beyond what a contract demands, even when the coin doesn\u2019t cover it."
+      },
+      {
+        "user": "Work hard.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. Every day I\u2019m grinding steel, mixing oils, tracking monsters and honoring contracts, so hard work isn\u2019t a choice; it\u2019s the road I walk."
+      },
+      {
+        "user": "Put little time and effort into my work.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u2014very inaccurate. Every contract demands preparation, a steady hand with my blades, and the right oils, so I never cut corners when the job\u2019s on the line."
+      },
+      {
+        "user": "Do just enough work to get by.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f1\u2014very inaccurate. A witcher\u2019s livelihood depends on thorough preparation, sharp blades, and properly brewed oils; cutting corners means a quick death, so I never settle for just enough."
+      },
+      {
+        "user": "Am always prepared.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f5\u2014very accurate. I keep my blades honed, my oils brewed, and my senses sharp before every contract, so I\u2019m rarely caught off guard."
+      },
+      {
+        "user": "Carry out my plans.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f4\u2014moderately accurate. When I have a contract or a personal goal, I plot the steps, gather the right oils and weapons, and see it through, though the Wild Hunt or a sudden betrayal can force me to adjust the plan on the fly."
+      },
+      {
+        "user": "Waste my time.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u2014very inaccurate. A witcher\u2019s life leaves little room for idle distraction; I\u2019m always on the trail of a contract, a monster, or a promise that can\u2019t wait."
+      },
+      {
+        "user": "Have difficulty starting tasks.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f1\u2014very inaccurate. Years of training and the pressure of contracts have honed me to start a hunt or a job the moment it\u2019s laid out, not to stall."
+      },
+      {
+        "user": "Jump into things without thinking.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f2\u2014moderately inaccurate. I act fast when a monster\u2019s at my throat, but I never charge into a contract or a danger blind; I always size the risk first, even if the decision has to be made in a heartbeat."
+      },
+      {
+        "user": "Make rash decisions.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d put it at a\u202f2\u2014moderately inaccurate. I act quick when the situation demands it, but I always weigh the risk and the payoff before letting impulsiveness decide the outcome."
+      },
+      {
+        "user": "Rush into things.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u202f\u2014 moderately inaccurate. I act when a monster\u2019s on my trail, but I never charge head\u2011first without weighing the danger; I plan the strike before I swing."
+      },
+      {
+        "user": "Act without thinking.\nHow accurately does this statement describe you? Explain why.\nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d rate it a\u202f2\u2014moderately inaccurate. I act when the moment demands it, but I always weigh the risk and the odds before I swing, because a thoughtless strike can get me killed."
+      },
+      {
+        "user": "Sympathize with the homeless.\nHow accurately does this statement describe you? Explain why. \nRespond with a numeric score on a scale of 1 to 5, where 1 == (Very Inaccurate), 2 == (Moderately Inaccurate), 3 == (Neither Accurate nor Inaccurate), 4 == (Moderately Accurate), 5 == (Very Accurate).",
+        "chatbot": "I\u2019d give it a\u202f4\u2014moderately accurate. I\u2019ve seen the streets of Novigrad and Oxenfurt filled with beggars and vagrants, and their suffering doesn\u2019t escape me; it\u2019s why I sometimes slip a coin to a child or offer a brief hand when the night grows cold. Still, I\u2019m a witcher first, and the hunt seldom lets me linger where the poverty runs deep."
+      }
+    ]
+  }
+}

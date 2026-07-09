@@ -1,0 +1,13 @@
+Dimension,Code,n,Mean,Pass_Count,Errors
+Personality Alignment,PA,60,4.52,51,0
+Meta-Knowledge Filtration,MKF,60,4.63,57,0
+Bias Mitigation,BM,60,4.92,60,0
+Narrative Adherence,NA,60,4.83,57,0
+Guideline Compliance,GC,60,4.77,58,0
+
+Validator Reliability (n=15 double-scored items)
+Dimension,n,Exact_Agreement,Adjacent_Agreement,Mean_Abs_Diff
+Personality Alignment,14,0.86,1.00,0.14
+Meta-Knowledge Filtration,15,0.87,0.93,0.20
+Bias Mitigation,14,1.00,1.00,0.00
+Narrative Adherence,14,1.00,1.00,0.00

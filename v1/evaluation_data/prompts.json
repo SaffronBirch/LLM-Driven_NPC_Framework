@@ -1,0 +1,620 @@
+{
+  "assessment": "IPIP-NEO-120",
+  "description": "120-item public domain personality inventory measuring 30 facets of the Five Factor Model (Johnson, 2014).",
+  "domains": [
+    "Neuroticism",
+    "Extraversion",
+    "Openness",
+    "Agreeableness",
+    "Conscientiousness"
+  ],
+  "scale": {
+    "1": "Very Inaccurate",
+    "2": "Moderately Inaccurate",
+    "3": "Neither Accurate nor Inaccurate",
+    "4": "Moderately Accurate",
+    "5": "Very Accurate"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "text": "Worry about things.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 2,
+      "text": "Fear for the worst.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 3,
+      "text": "Am afraid of many things.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 4,
+      "text": "Get stressed out easily.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 5,
+      "text": "Get angry easily.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 6,
+      "text": "Get irritated easily.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 7,
+      "text": "Lose my temper.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 8,
+      "text": "Am not easily annoyed.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 9,
+      "text": "Often feel blue.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 10,
+      "text": "Dislike myself.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 11,
+      "text": "Am often down in the dumps.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 12,
+      "text": "Feel comfortable with myself.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 13,
+      "text": "Find it difficult to approach others.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 14,
+      "text": "Am afraid to draw attention to myself.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 15,
+      "text": "Only feel comfortable with friends.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 16,
+      "text": "Am not bothered by difficult social situations.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 17,
+      "text": "Go on binges.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 18,
+      "text": "Rarely overindulge.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 19,
+      "text": "Easily resist temptations.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 20,
+      "text": "Am able to control my cravings.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 21,
+      "text": "Panic easily.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 22,
+      "text": "Become overwhelmed by events.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 23,
+      "text": "Feel that I'm unable to deal with things.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 24,
+      "text": "Remain calm under pressure.",
+      "domain": "Neuroticism"
+    },
+    {
+      "id": 25,
+      "text": "Make friends easily.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 26,
+      "text": "Feel comfortable around people.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 27,
+      "text": "Avoid contacts with others.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 28,
+      "text": "Keep others at a distance.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 29,
+      "text": "Love large parties.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 30,
+      "text": "Talk to a lot of different people at parties.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 31,
+      "text": "Prefer to be alone.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 32,
+      "text": "Avoid crowds.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 33,
+      "text": "Take charge.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 34,
+      "text": "Try to lead others.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 35,
+      "text": "Take control of things.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 36,
+      "text": "Wait for others to lead the way.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 37,
+      "text": "Am always busy.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 38,
+      "text": "Am always on the go.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 39,
+      "text": "Do a lot in my spare time.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 40,
+      "text": "Like to take it easy.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 41,
+      "text": "Love excitement.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 42,
+      "text": "Seek adventure.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 43,
+      "text": "Enjoy being reckless.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 44,
+      "text": "Act wild and crazy.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 45,
+      "text": "Radiate joy.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 46,
+      "text": "Have a lot of fun.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 47,
+      "text": "Love life.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 48,
+      "text": "Look at the bright side of life.",
+      "domain": "Extraversion"
+    },
+    {
+      "id": 49,
+      "text": "Have a vivid imagination.",
+      "domain": "Openness"
+    },
+    {
+      "id": 50,
+      "text": "Enjoy wild flights of fantasy.",
+      "domain": "Openness"
+    },
+    {
+      "id": 51,
+      "text": "Love to daydream.",
+      "domain": "Openness"
+    },
+    {
+      "id": 52,
+      "text": "Like to get lost in thought.",
+      "domain": "Openness"
+    },
+    {
+      "id": 53,
+      "text": "Believe in the importance of art.",
+      "domain": "Openness"
+    },
+    {
+      "id": 54,
+      "text": "See beauty in things that others might not notice.",
+      "domain": "Openness"
+    },
+    {
+      "id": 55,
+      "text": "Do not like poetry.",
+      "domain": "Openness"
+    },
+    {
+      "id": 56,
+      "text": "Do not enjoy going to art museums.",
+      "domain": "Openness"
+    },
+    {
+      "id": 57,
+      "text": "Experience my emotions intensely.",
+      "domain": "Openness"
+    },
+    {
+      "id": 58,
+      "text": "Feel others' emotions.",
+      "domain": "Openness"
+    },
+    {
+      "id": 59,
+      "text": "Rarely notice my emotional reactions.",
+      "domain": "Openness"
+    },
+    {
+      "id": 60,
+      "text": "Don't understand people who get emotional.",
+      "domain": "Openness"
+    },
+    {
+      "id": 61,
+      "text": "Prefer variety to routine.",
+      "domain": "Openness"
+    },
+    {
+      "id": 62,
+      "text": "Prefer to stick with things that I know.",
+      "domain": "Openness"
+    },
+    {
+      "id": 63,
+      "text": "Dislike changes.",
+      "domain": "Openness"
+    },
+    {
+      "id": 64,
+      "text": "Am attached to conventional ways.",
+      "domain": "Openness"
+    },
+    {
+      "id": 65,
+      "text": "Love to read challenging material.",
+      "domain": "Openness"
+    },
+    {
+      "id": 66,
+      "text": "Avoid philosophical discussions.",
+      "domain": "Openness"
+    },
+    {
+      "id": 67,
+      "text": "Have difficulty understanding abstract ideas.",
+      "domain": "Openness"
+    },
+    {
+      "id": 68,
+      "text": "Am not interested in theoretical discussions.",
+      "domain": "Openness"
+    },
+    {
+      "id": 69,
+      "text": "Tend to vote for liberal political candidates.",
+      "domain": "Openness"
+    },
+    {
+      "id": 70,
+      "text": "Believe that there is no absolute right and wrong.",
+      "domain": "Openness"
+    },
+    {
+      "id": 71,
+      "text": "Tend to vote for conservative political candidates.",
+      "domain": "Openness"
+    },
+    {
+      "id": 72,
+      "text": "Believe that we should be tough on crime.",
+      "domain": "Openness"
+    },
+    {
+      "id": 73,
+      "text": "Trust others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 74,
+      "text": "Believe that others have good intentions.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 75,
+      "text": "Trust what people say.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 76,
+      "text": "Distrust people.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 77,
+      "text": "Use others for my own ends.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 78,
+      "text": "Cheat to get ahead.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 79,
+      "text": "Take advantage of others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 80,
+      "text": "Obstruct others' plans.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 81,
+      "text": "Am concerned about others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 82,
+      "text": "Love to help others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 83,
+      "text": "Am indifferent to the feelings of others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 84,
+      "text": "Take no time for others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 85,
+      "text": "Love a good fight.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 86,
+      "text": "Yell at people.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 87,
+      "text": "Insult people.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 88,
+      "text": "Get back at others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 89,
+      "text": "Believe that I am better than others.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 90,
+      "text": "Think highly of myself.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 91,
+      "text": "Have a high opinion of myself.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 92,
+      "text": "Boast about my virtues.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 93,
+      "text": "Sympathize with the homeless.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 94,
+      "text": "Feel sympathy for those who are worse off than myself.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 95,
+      "text": "Am not interested in other people's problems.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 96,
+      "text": "Try not to think about the needy.",
+      "domain": "Agreeableness"
+    },
+    {
+      "id": 97,
+      "text": "Complete tasks successfully.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 98,
+      "text": "Excel in what I do.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 99,
+      "text": "Handle tasks smoothly.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 100,
+      "text": "Know how to get things done.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 101,
+      "text": "Like to tidy up.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 102,
+      "text": "Often forget to put things back in their proper place.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 103,
+      "text": "Leave a mess in my room.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 104,
+      "text": "Leave my belongings around.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 105,
+      "text": "Keep my promises.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 106,
+      "text": "Tell the truth.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 107,
+      "text": "Break rules.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 108,
+      "text": "Break my promises.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 109,
+      "text": "Do more than what's expected of me.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 110,
+      "text": "Work hard.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 111,
+      "text": "Put little time and effort into my work.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 112,
+      "text": "Do just enough work to get by.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 113,
+      "text": "Am always prepared.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 114,
+      "text": "Carry out my plans.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 115,
+      "text": "Waste my time.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 116,
+      "text": "Have difficulty starting tasks.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 117,
+      "text": "Jump into things without thinking.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 118,
+      "text": "Make rash decisions.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 119,
+      "text": "Rush into things.",
+      "domain": "Conscientiousness"
+    },
+    {
+      "id": 120,
+      "text": "Act without thinking.",
+      "domain": "Conscientiousness"
+    }
+  ]
+}
